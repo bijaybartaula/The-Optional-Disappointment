@@ -1,11 +1,6 @@
-> **Moodboards, Wireframes, and Other Lies I Tell Myself**
-> *When the design is stunning, but the actual app never even reaches a single route.*
-
----
-
 ## Moodboards, Wireframes, and Other Lies I Tell Myself
 
-**When the design is stunning, but the actual app never even reaches a single route.**
+> **When the design is stunning, but the actual app never even reaches a single route.**
 
 There’s a folder on my desktop labeled “Startups.” Inside it are subfolders with names like *NimbusOS*, *EchoJournal*, *Maple*, *Quanta*, and a dozen other sleek, evocative titles that sound like they belong on Product Hunt’s front page. Inside those folders are designs — beautiful, thoughtful, sometimes obsessive designs. Color palettes. Font hierarchies. Responsive mockups. Components upon components. All meticulously built out in Figma.
 
