@@ -5,6 +5,8 @@
 
 There's a peculiar masochism that afflicts creative souls everywhere. We finish a project, watch it crash and burn (or worse, whimper into obscurity), conduct a thorough post-mortem, identify exactly what went wrong, and then... do it again. Not just similar projects—the *same* project. The same fundamental idea that we've now proven doesn't work, repackaged with fresh optimism and a new coat of paint.
 
+> "The definition of insanity is doing the same thing over and over again and expecting different results... but the definition of creativity is doing the same thing over and over again until you get different results." —Every creative person, justifying their third attempt
+
 Welcome to the wonderful world of reboots, remakes, and the regrets that fuel them both.
 
 ## The Siren Song of "This Time Will Be Different"
@@ -12,6 +14,8 @@ Welcome to the wonderful world of reboots, remakes, and the regrets that fuel th
 Picture this: It's 2 AM, you're scrolling through your old project folders (or dusty sketchbooks, or abandoned Etsy shops, or that YouTube channel you started with such hope), and you stumble upon *it*. That thing you poured your heart into eighteen months ago. The thing that was going to change everything. The thing that... didn't.
 
 But instead of the familiar sting of failure, you feel something else. A flutter of possibility. Because now you can see exactly where it went wrong. The execution was flawed, sure, but the core idea? The core idea was brilliant. Still is brilliant. It just needs a fresh approach.
+
+> "I don't have a drinking problem, I have a starting problem. I can't stop starting things." —Anonymous creative, probably cross-stitching this onto a pillow for their 47th abandoned craft project
 
 This is the moment every creative knows intimately—the moment when "never again" transforms into "just one more time."
 
@@ -28,6 +32,8 @@ The solution seems so obvious now. So *simple*. How did you miss it the first ti
 This time, you're going to do it right. You make lists. You research competitors. You sketch wireframes or mood boards or business models. You learn from your mistakes with the methodical precision of a general planning a military campaign.
 
 You are older now. Wiser. You have *experience*.
+
+> "Experience is what you get when you didn't get what you wanted. And experience is often the most valuable thing you have to offer." —Randy Pausch, who clearly never tried to launch the same failed startup three times in a row
 
 **Phase 3: The Execution**
 You dive in with renewed vigor. This isn't just a do-over—it's a do-better. You've eliminated the obvious mistakes, streamlined the process, and focused on what really matters. Progress feels swift and sure.
@@ -56,6 +62,8 @@ Creative failure is never just about one variable. It's about the intersection o
 
 We tell ourselves that we've isolated the problem. We've identified the single point of failure and can fix it. But creative projects aren't machines with broken parts. They're living ecosystems, and ecosystems are notoriously difficult to debug.
 
+> "If at first you don't succeed, try, try again. Then quit. There's no point in being a damn fool about it." —W.C. Fields, who obviously never had a creative bone in his body
+
 ## The Reboot Paradox
 
 Here's the thing that makes this whole cycle particularly cruel: sometimes the reboots actually work.
@@ -63,6 +71,8 @@ Here's the thing that makes this whole cycle particularly cruel: sometimes the r
 Not often, but often enough to keep the dream alive. Every creative community has its legends—the author who rewrote their novel six times before it became a bestseller, the entrepreneur who pivoted their failed app into a billion-dollar company, the musician who kept rerecording the same song until it finally clicked.
 
 These stories become our folklore, our justification for one more attempt. They prove that persistence pays off, that iteration leads to innovation, that the only real failure is giving up.
+
+> "Success is going from failure to failure without losing your enthusiasm." —Winston Churchill, patron saint of creative reboots everywhere
 
 What they don't tell you is about the hundreds of other creators who rewrote their novels six times and still couldn't sell them. The entrepreneurs who pivoted themselves into bankruptcy. The musicians who kept rerecording until they forgot why they loved the song in the first place.
 
@@ -74,6 +84,8 @@ Every hour spent on Reboot #3 is an hour not spent on something completely diffe
 
 We become curators of our own creative graveyards, tending to projects that should have been allowed to rest in peace. We mistake familiarity for expertise, and comfort for competence.
 
+> "The graveyard is full of indispensable men." —Charles de Gaulle, who probably would have added "and half-finished creative projects" if he'd lived in the age of Google Drive
+
 ## Breaking the Cycle (Or Learning to Love It)
 
 So how do we break free from this pattern? How do we stop ourselves from endlessly polishing the same rough diamonds?
@@ -81,6 +93,8 @@ So how do we break free from this pattern? How do we stop ourselves from endless
 The truth is, we probably can't. And maybe we shouldn't try.
 
 The reboot impulse isn't a bug in our creative operating system—it's a feature. It's what drives us to push boundaries, to refuse easy answers, to keep believing that impossible things are just difficult things in disguise.
+
+> "I have not failed. I've just found 10,000 ways that won't work." —Thomas Edison, the original reboot king, who clearly never had to explain to his wife why he was building another light bulb prototype in the garage
 
 But we can learn to be smarter about it. We can develop better instincts for which projects deserve resurrection and which should be left to rest. We can set clearer boundaries around our time and energy. We can learn to recognize the difference between valuable iteration and destructive obsession.
 
@@ -108,6 +122,8 @@ Every reboot is an opportunity to understand something new about your own creati
 
 Sometimes the real value isn't in making the project work—it's in understanding why it keeps calling to you. The project might be a symptom of something deeper: a skill you're trying to develop, a story you're trying to tell, a version of yourself you're trying to become.
 
+> "We are what we repeatedly do. Excellence, then, is not an act, but a habit." —Aristotle, who would have absolutely dominated the maker space if he'd had access to a 3D printer
+
 ## Embracing the Beautiful Futility
 
 Maybe the most honest thing we can say about reboots is that they're rarely about the project itself. They're about us. About our relationship with failure, with persistence, with the stories we tell ourselves about what we're capable of.
@@ -123,3 +139,5 @@ Because sometimes—just sometimes—the third time really is the charm.
 ---
 
 *Now if you'll excuse me, I have a blog post to rewrite. I think I know what went wrong the first time...*
+
+>“This piece? Second draft. Still not sure I’ve nailed it.”
